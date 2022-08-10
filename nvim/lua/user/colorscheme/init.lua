@@ -1,0 +1,5 @@
+require("user.colorscheme.tokyonight").use_night()
+-- require("user.colorscheme.catppuccin").use_macchiato()
+-- require("user.colorscheme.catppuccin").use_frappe()
+-- require("user.colorscheme.catppuccin").use_latte()
+-- require("user.colorscheme.catppuccin").use_mocha()
